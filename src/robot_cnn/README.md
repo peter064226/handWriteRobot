@@ -1,0 +1,1 @@
+运行 roslaunch robot_cnn detect.launch 
